@@ -14,3 +14,9 @@ Password: cityslicka
 ## Screens
 ### Login
 ![Login](src/assets/screens/login.png?raw=true "Login")
+
+### Home
+![Home](src/assets/screens/home.png?raw=true "Home")
+
+### Offline
+![Offline](src/assets/screens/offline.png?raw=true "Offline")
