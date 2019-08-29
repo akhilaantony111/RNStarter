@@ -1,5 +1,5 @@
 # RNStarter
-A React Native starter kit of version 0.60.5 with navigation, redux, api integration, network info, async storage of latest versions.
+A React Native starter kit of version 0.60.5 with navigation, splash scren, redux, api integration, network info, async storage of latest versions. 
 
 The App consists of a Login and Home Page. In Login page a ppublic API is called and then it navigates to the home page if the response is success. Used common methods for API calls and also included redux in it. 
 
@@ -11,4 +11,5 @@ Used Net Info from @react-native-community/netinfo since NetInfo is deprecated i
 Email : eve.holt@reqres.in 
 Password: cityslicka
 
-
+![GitHub Logo](/assets/images/network.png)
+Format: ![Alt Text](url)
