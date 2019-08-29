@@ -11,5 +11,4 @@ Used Net Info from @react-native-community/netinfo since NetInfo is deprecated i
 Email : eve.holt@reqres.in 
 Password: cityslicka
 
-(/assets/images/network.png)
 
